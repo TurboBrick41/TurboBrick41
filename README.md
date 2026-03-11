@@ -9,3 +9,5 @@
 - PyGame
 - Flask, REST API
 - SQLite
+
+- 📫 Контакты: [Telegram](https://t.me/turbobrick41)
