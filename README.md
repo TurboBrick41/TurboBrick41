@@ -1,11 +1,11 @@
-`*# Привет! 👋 Я Дмитрий!*`
+ Привет! 👋 Я Дмитрий!
 
-`*💡 Python-разработчик.*`
+💡 Python-разработчик.
 
-`*## 🔧 Мои Hard Skills:*`
+ 🔧 Мои Hard Skills:
 
-- `*Python,*`
-- `*Telegram, pyrogram*`
-- `*PyGame*`
-- `*Flask, REST API*`
-- `*SQLite*`
+- Python,
+- Telegram, pyrogram
+- PyGame
+- Flask, REST API
+- SQLite
